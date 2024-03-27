@@ -8,3 +8,7 @@ rules:
 - do not use numbers
 - do not use  symbols
 - do not use punctuacion
+
+technologies:
+
+- python
